@@ -1,6 +1,6 @@
 # Simple Contact Book
 
-iThis is a straightforward contact manager built in Python, storing contact information in a JSON file. Users can add, delete, update, and view contacts.
+This is a straightforward contact manager built in Python, storing contact information in a JSON file. Users can add, delete, update, and view contacts.
 
 ##  Contents
 - `main.py` — application entry point
